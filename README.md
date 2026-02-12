@@ -35,7 +35,8 @@ Our model was rigorously tested against unseen data. The results demonstrate exc
 ### Confusion Matrix
 The visualization below shows the model's performance on the test set.
 
-![Confusion Matrix](assets/confusion_matrix.png)
+![Confusion Matrix](<img width="767" height="601" alt="Screenshot 2026-02-11 224818" src="https://github.com/user-attachments/assets/1e48ed3c-8a21-44b5-ac16-f734eb15df3d" />
+)
 
 > **Insight:** Out of 74,393 test samples, the model only missed **26** failures and raised **11** false alarms.
 
