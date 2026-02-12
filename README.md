@@ -1,6 +1,6 @@
 # 🛡️ HDFS AI Sentinel - Failure Prediction System
 
-![HDFS AI Sentinel Banner](assets/hdfs_ai_sentinel.png)
+
 
 [![Hugging Face](https://img.shields.io/badge/Model-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Sha09090/hdfs-failure-prediction)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
