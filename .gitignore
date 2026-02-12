@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Model Artifacts (Too large for GitHub)
+*.safetensors
+*.bin
+pytorch_model.bin
+model.safetensors
+
+# Data
+data/
+*.json
+*.csv
+
+# Environment
+.env
+.venv
+venv/
+
+# IDE
+.vscode/
+.idea/
