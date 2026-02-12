@@ -98,5 +98,5 @@ This project is licensed under the **MIT License**. feel free to use it for rese
 
 ---
 
-**Developed by [Shashank Choudhary](https://github.com/Sidthebuilder)**  
+**Developed by [Shashank](https://github.com/Sidthebuilder)**  
 *Check out the live model on [Hugging Face](https://huggingface.co/Sha09090/hdfs-failure-prediction)*
